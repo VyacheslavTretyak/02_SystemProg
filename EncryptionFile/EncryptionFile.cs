@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace EncryptionFile
 {
-	public partial class Form1 : Form
+	public partial class EncryptionFile : Form
 	{
-		public Form1()
+		public EncryptionFile()
 		{
 			InitializeComponent();
 		}
